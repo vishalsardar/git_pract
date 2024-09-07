@@ -1,3 +1,3 @@
 # pract_pract
-I'm learning Git
+I'm learning Git<br>
 author: Vishal Sardar
